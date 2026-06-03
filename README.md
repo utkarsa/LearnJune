@@ -1,0 +1,2 @@
+# LearnJune
+learning from scratch
